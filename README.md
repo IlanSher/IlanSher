@@ -1,4 +1,4 @@
-👋 Hi, I’m @IlanSher 
+👋 Hi, I’m Ilan Scher 
 👀 I’m interested in a a Front End Web Developer Position.
   I have 3 years of experience as an Expert Front End Web Developer in high-tech companies - Nodeside, Pres.global.
   Successful background in the development of front end web Development, using database systems, Node JS, Express and AWS. 
