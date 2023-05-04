@@ -2,7 +2,7 @@
 
 👀 I’m interested in a Front End Web Developer new position.
 
-❤ I love coding with CSS, SCSS,JavaScript, HTML, Node JS & Express. 
+❤ I love coding with JavaScript, HTML, CSS, Node.JS & Express. 
 
 📫 Reach me out: ilan61300@gmail.com & 052-810-9521
 
