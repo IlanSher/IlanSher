@@ -8,5 +8,5 @@
 
 **Languages and Tools:**
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,vue,react,nodejs,express,mysql,aws,git)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,jquery,vue,react,nodejs,express,mysql,aws,git,linux)](https://skills.thijs.gg)
 
